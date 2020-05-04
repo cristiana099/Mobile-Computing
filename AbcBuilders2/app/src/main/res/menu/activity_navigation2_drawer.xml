@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Menu Gallery" />
+        <item
+            android:id="@+id/ourlocations"
+            android:title="Our Locations" />
+
+        <item
+            android:id="@+id/testimonials"
+            android:title="Testimonials" />
+
+        <item
+            android:id="@+id/contactus"
+            android:title="Contact Us" />
+    </group>
+</menu>

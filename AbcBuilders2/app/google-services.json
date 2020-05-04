@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404006320873",
+    "firebase_url": "https://optimal-analogy-258517.firebaseio.com",
+    "project_id": "optimal-analogy-258517",
+    "storage_bucket": "optimal-analogy-258517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404006320873:android:7e895cbdfd425de9f08e78",
+        "android_client_info": {
+          "package_name": "com.example.abcbuilders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404006320873-366hdc0ma7dgl3jivglupnieqhbgqttv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abcbuilders",
+            "certificate_hash": "b4b2fe5083047b02956a4a8b1f4db954821d32a2"
+          }
+        },
+        {
+          "client_id": "404006320873-srjeeq8nq3tc9qftmgap0c73eg77namu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lPXt_hkhfFBXJGJxFEPxy6quW2e7aTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404006320873-srjeeq8nq3tc9qftmgap0c73eg77namu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
